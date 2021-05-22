@@ -48,7 +48,9 @@ Overall, it is not a metric that we would recommend for use in the realm of glob
 
 ### Executive Summary:
 Environmental health is at the forefront of major global issues to be addressed in our time. As such, it is important to identify metrics that are scientifically backed and universally applicable in order for policy makers to be capable of making informed and data driven decisions in the environmental sphere.
+
 Our project set out to use machine learning models to verify if the Environmental Performance Index (EPI) is one such metric. The EPI report is created by a research team at Yale, and represents a weighted aggregate of many important environmental and health factors.
+
 We found that in modeling the EPI, it did not entirely stand up to scrutiny as an environmental metric. It is recalculated every two years with different sets of features, making it highly variant for policy making. Additionally, it has a tendency to overrepresent sanitation and water related metrics, while somewhat lacking on accurate environmental ones.
 
 It is important in the global struggle against human-related climate change that policy is driven by useful, consistent data about environmental health. The EPI, as analyzed over the course of 19 years, may not be that metric. Continued research is needed to find lower variance and accurately weighted environmental performance indicators.
